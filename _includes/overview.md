@@ -9,7 +9,7 @@ There are 41 development queries that the participants can use in system develop
 
 All participants are expected to submit a short write-up about their submissions (similar to the TREC system paper). Selected teams (including the winner of the Cup) will receive a slot at WSDM for oral presentation. 
 
-Submissions will also be made to the submission Google Form. All test queries should have at least 20 retrieved documents in each submission file. The following is an example of the submission format (the TREC run format).
+Submissions will also be made to the [submission Google Form](https://forms.gle/Ww5GNZ4jUAawTqoc6). All test queries should have at least 20 retrieved documents in each submission file. The following is an example of the submission format (the TREC run format).
 
 ```
 212 Q0 a6c8f37a-8847-4b56-bd45-146bcecd78f3 1 29.3672 your-run-name
@@ -29,7 +29,9 @@ If you have any question, please [raise issues in our Github Repository](https:/
 - Development Qrels: [Download Link](/resource/wsdm-cup.dev.qrels)
 - **Test Queries:** [Download Link](/resource/wsdm-cup.test.queries.tsv) 
 
-Your submission should contains queries in the **test queries** file. 
+Your submission should contains queries in the **test queries** file.
+
+Please submit your run here: [Submission Link](https://forms.gle/Ww5GNZ4jUAawTqoc6)
 
 
 ### Important Dates
