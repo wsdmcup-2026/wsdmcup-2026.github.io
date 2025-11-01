@@ -9,7 +9,7 @@ There are 41 development queries that the participants can use in system develop
 
 All participants are expected to submit a short write-up about their submissions (similar to the TREC system paper). Selected teams (including the winner of the Cup) will receive a slot at WSDM for oral presentation. 
 
-The Cup will be hosted on Kaggle, where participants are encouraged to discuss and raise questions on the discussion board. Submissions will also be made to the Kaggle challenge. All test queries should have at least 20 retrieved documents in each submission file. The following is an example of the submission format (the TREC run format).
+Submissions will also be made to the submission Google Form. All test queries should have at least 20 retrieved documents in each submission file. The following is an example of the submission format (the TREC run format).
 
 ```
 212 Q0 a6c8f37a-8847-4b56-bd45-146bcecd78f3 1 29.3672 your-run-name
@@ -20,12 +20,16 @@ The Cup will be hosted on Kaggle, where participants are encouraged to discuss a
 212 Q0 e9fc0c92-e67c-4197-af29-17d4dd250877 6 29.0679 your-run-name
 ```
 
+If you have any question, please [raise issues in our Github Repository](https://github.com/wsdmcup-2026/wsdmcup-2026.github.io/issues).
+
 ### Data
 
-- Document Collection: Available on Huggingface [https://huggingface.co/datasets/neuclir/neuclir1](https://huggingface.co/datasets/neuclir/neuclir1).
-- Development Queries: 
-- Development Qrels: 
-- **Test Queries:**
+- Document Collection: [Huggingface Datasets](https://huggingface.co/datasets/neuclir/neuclir1).
+- Development Queries: [Download Link](/resource/wsdm-cup.dev.queries.tsv)
+- Development Qrels: [Download Link](/resource/wsdm-cup.dev.qrels)
+- **Test Queries:** [Download Link](/resource/wsdm-cup.test.queries.tsv) 
+
+Your submission should contains queries in the **test queries** file. 
 
 
 ### Important Dates
