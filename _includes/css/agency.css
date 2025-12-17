@@ -57,6 +57,12 @@ h6 {
     font-weight: 700;
 }
 
+table > td, table > th {
+    padding: 5px 20px; 
+    border: 1px black solid !important;
+}
+
+
 .img-centered {
     margin: 0 auto;
 }
