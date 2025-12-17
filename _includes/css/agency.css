@@ -57,7 +57,7 @@ h6 {
     font-weight: 700;
 }
 
-table > td, table > th {
+table td, table th {
     padding: 5px 20px; 
     border: 1px black solid !important;
 }
