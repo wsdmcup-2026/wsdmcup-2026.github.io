@@ -33,6 +33,19 @@ Your submission should contains queries in the **test queries** file.
 
 Please submit your run here: [Submission Link](https://forms.gle/Ww5GNZ4jUAawTqoc6)
 
+### Evaluation and Baselines
+
+Runs will be evaluated based on nDCG@20. 
+To support development, here are some baseline system performance. 
+
+| Retrieval Model                                                                              | nDCG@20 |
+| -------------------------------------------------------------------------------------------- | ------- |
+| BM25 w/ Document Translated to English                                                       |   0.349 |
+| [e5 Large](intfloat/multilingual-e5-large)                                                   |   0.205 |
+| [Qwen3 0.6B Embed](https://huggingface.co/Qwen/Qwen3-Embedding-0.6B)                         |   0.309 |
+| [PLAID-X](https://huggingface.co/hltcoe/plaidx-large-neuclir-mtd-mix-passages-mt5xxl-engeng) |   0.396 |
+| [Qwen3 8B Embed](https://huggingface.co/Qwen/Qwen3-Embedding-8B)                             |   0.423 |
+
 
 ### Important Dates
 - November 17, 2025: Document collection, development/test queries, and the submission portal are available.
