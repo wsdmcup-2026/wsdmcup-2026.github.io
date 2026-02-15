@@ -48,10 +48,10 @@ To support development, here are some baseline system performance.
 
 
 ### Important Dates
-- November 17, 2025: Document collection, development/test queries, and the submission portal are available.
-- December 1, 2025: Online Q&A session if needed
-- February 2, 2025: Submission due
-- February 22-26, 2026: WSDM Conference; winner and evaluation result announcement. An overview technical report will be released along with the final results.  
+- ~~November 17, 2025~~: Document collection, development/test queries, and the submission portal are available.
+- ~~December 1, 2025~~: Online Q&A session if needed
+- ~~February 2, 2025~~: Submission due
+- February 26, 2026: WSDM Cup Session at WSDM Conference; winner and evaluation result announcement. An overview technical report will be released along with the final results.  
 
 
 ### Other Additional Data and Resources
