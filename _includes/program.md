@@ -1,5 +1,4 @@
 WSDM Cup Sessions will be at 9:00 to 10:30 on Feb 26, 2026. 
-
 The following is the tentative program. 
 
 | Title                                               | Presnter                 | Time          |
